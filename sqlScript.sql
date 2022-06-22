@@ -1,3 +1,9 @@
+/**
+ Написать запрос для получения из таблицы с продуктами по 2 последних товаров из
+ каждой коллекции без использования HAVING.
+**/
+
+
 CREATE TABLE `tablename` (
 	`id` INT(20) NOT NULL AUTO_INCREMENT,
 	`title` VARCHAR(100) NOT NULL,
